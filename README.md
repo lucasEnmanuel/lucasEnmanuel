@@ -79,12 +79,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasEJA&hide_border=true" height="165"/>
-</p>
+<p align="center">💬 Escríbeme si quieres conversar sobre desarrollo web, arquitectura multi-tenant o IA aplicada al desarrollo.</p>
 
 ---
 
-<p align="center">💬 Escríbeme si quieres conversar sobre desarrollo web, arquitectura multi-tenant o IA aplicada al desarrollo.</p>
+
